@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajibul-102
 - 👀 I’m interested in everything i like
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : rajibul45@outlook.com
 - 😄 Pronouns: ...
